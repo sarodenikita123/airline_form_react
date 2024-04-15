@@ -1,0 +1,13 @@
+{
+  "users": [
+    {
+      "name": "nikita sarode",
+      "gate": "2",
+      "close": "02:23",
+      "class": "A",
+      "seat": "12",
+      "location": "Mumbai",
+      "id": 1
+    }
+  ]
+}
